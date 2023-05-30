@@ -1,0 +1,173 @@
+.HeaderBar {
+    display: flex;
+  }
+  .clock {
+    position: relative;
+    left: 40px;
+    top: 10px;
+    font-weight: bold;
+  }
+  .server {
+    width: 12px;
+    height: 9px;
+    position: relative;
+    left: 300px;
+    top: 13px;
+  }
+  .wifi {
+    width: 13px;
+    height: 13px;
+    position: relative;
+    left: 303px;
+    top: 11px;
+  }
+  .battery {
+    width: 17px;
+    height: 15px;
+    position: relative;
+    left: 306px;
+    top: 10px;
+  }
+  .Logo {
+    display: flex;
+    margin-right: 40%;
+  }
+  .EDUlink {
+    width: 120px;
+    height: 120px;
+    position: relative;
+    left: 20px;
+    top: -20px;
+  }
+  div nav ul {
+    list-style: none;
+    display: flex;
+    position: relative;
+    left: 160px;
+    top: 13px;
+  }
+  div nav ul li {
+    margin-right: 20%;
+  }
+  div nav ul li a {
+    color: black;
+    font-size: 20px;
+  }
+  hr {
+    position: relative;
+    top: -70px;
+  }
+  .profile1 {
+    border-radius: 50%;
+    object-fit: contain;
+    position: relative;
+    left: 40px;
+    top: -60px;
+  }
+  .name {
+    position: relative;
+    left: 95px;
+    top: -115px;
+    font-weight: bold;
+  }
+  .time {
+    position: relative;
+    left: 95px;
+    top: -130px;
+    font-weight: 200;
+    font-size: small;
+  }
+  
+  .more {
+    list-style: none;
+    position: relative;
+    left: 350px;
+    top: -175px;
+    font-size: larger;
+  }
+  .newfeedword {
+    position: relative;
+    left: 60px;
+    top: -170px;
+  }
+  .reactbar {
+    list-style: none;
+    position: relative;
+    left: 50px;
+    top: -165px;
+    display: flex;
+  }
+  .react {
+    position: relative;
+    left: 10px;
+    top: 2px;
+  }
+  .reactvalue {
+    position: relative;
+    left: 14px;
+    top: 3px;
+    font-size: small;
+    font-weight: 100;
+  }
+  .comment {
+    position: relative;
+    left: 20px;
+    top: 2px;
+  }
+  .commentvalue {
+    position: relative;
+    left: 24px;
+    top: 3px;
+    font-size: small;
+    font-weight: 100;
+  }
+  .share {
+    position: relative;
+    left: 200px;
+    top: 2px;
+  }
+  .posttitle2 {
+    position: relative;
+    top: -80px;
+  }
+  .line {
+    position: relative;
+    top: -249px;
+  }
+  .endbar {
+    list-style: none;
+    display: flex;
+    position: relative;
+    left: 15px;
+    top: -250px;
+    font-size: x-large;
+  }
+  .user {
+    position: relative;
+    left: 180px;
+  }
+  .bell {
+    position: relative;
+    left: 150px;
+  }
+  .add {
+    position: relative;
+    left: 120px;
+  }
+  .group {
+    position: relative;
+    left: 90px;
+  }
+  .house {
+    position: relative;
+    left: 60px;
+  }
+  
+  .container {
+    width: 390px;
+    height: 844px;
+    border: black 1px solid;
+    border-radius: 5px;
+    margin-left: 40%;
+  }
+  
